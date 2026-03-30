@@ -1,5 +1,17 @@
 # 🧠 AI Life OS
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange)
+![Llama3](https://img.shields.io/badge/Model-Llama3-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![GitHub repo size](https://img.shields.io/github/repo-size/jenadebabrata/ai-life-os)
+![GitHub stars](https://img.shields.io/github/stars/jenadebabrata/ai-life-os)
+![GitHub forks](https://img.shields.io/github/forks/jenadebabrata/ai-life-os)
+
+# 🧠 AI Life OS
+
 A local AI assistant with memory and personality, running completely offline using Ollama and Llama 3.
 
 ---
