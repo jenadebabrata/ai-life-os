@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/jenadebabrata/ai-life-os)
 ![GitHub forks](https://img.shields.io/github/forks/jenadebabrata/ai-life-os)
 
-# 🧠 AI Life OS
+
 
 A local AI assistant with memory and personality, running completely offline using Ollama and Llama 3.
 
