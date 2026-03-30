@@ -60,6 +60,16 @@ Personality prompt is added
 LLM (Llama 3) generates response
 Conversation is stored for future memory
 
+## 📬 Example API Request
+
+POST /chat
+
+Example input:
+
+{
+  "user_input": "Hello, who are you?"
+}
+
 ## 📁 Project Structure
 ai-life-os/
 │
@@ -78,11 +88,17 @@ ai-life-os/
 Python 3.10+
 Ollama installed and running
 
+## ⚠️ Important
+
+Make sure Ollama is running before starting the server.
+
 ## 🔥 Future Improvements
 Voice interaction
 Web UI (React frontend)
 Smarter memory ranking
 Multi-agent system
+
+---
 
 ## 👨‍💻 Author
 
@@ -94,6 +110,16 @@ If you like this project, give it a star ⭐ on GitHub!
 
 
 ---
+## 💡 Why This Project?
+
+This project demonstrates how to build a fully local AI system with:
+
+- Long-term memory
+- Personality-based responses
+- Zero API cost
+- Full privacy
+
+It is designed as a foundation for building personal AI assistants.
 
 # 🧠 Why This README Is Strong (AI Evaluator View)
 
