@@ -73,6 +73,8 @@ cd ai-life-os/backend
 pip install -r requirements.txt
 ollama pull llama3
 uvicorn main:app --reload
+```
+
 
 ## 🧠 How It Works
 User input is received
